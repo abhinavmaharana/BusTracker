@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BusTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hello_there">Hello There!</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="need_help">Need Help?</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="todo" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="collection_users">Users</string>
+    <string name="collection_bus_locations">Bus Locations</string>
+    <string name="google_directions_key">AIzaSyAPL-D5QxOLog6XNHmJfhkHAuiUPFg_AuI</string>
+
+</resources>
